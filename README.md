@@ -1,4 +1,4 @@
-# EdilGo mobile app [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
+# EdilGo mobile app ![CircleCI](https://img.shields.io/github/v/tag/ionutbirlad/edilgo-react-native?sort=date)
 
 This is a beta version of the EdilGo single page application replicated for mobile devices using React Native and Ignite boilerplate structure.
 
