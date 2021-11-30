@@ -1,0 +1,23 @@
+{
+  "common": {
+    "ok": "Ok",
+    "cancel": "Annulla",
+    "back": "Indietro"
+  },
+  "dashboardScreen": {
+    "revenue": "Fatturato",
+    "empNum": "Numero di dipendenti",
+    "navigateToProfile": "Vai al profilo",
+    "reqSent": "Richieste inviate",
+    "ongoingProjects": "Progetti in corso",
+    "activeOffers": "Offerte attive",
+    "notifications": "Notifiche",
+    "collaborators": "Collaboratori",
+    "suppliers": "Albo fornitori",
+    "latestReq": "Ultime richieste",
+    "card": {
+      "budget": "Budget: ",
+      "expiration": "Scadenza: "
+    }
+  }
+}
