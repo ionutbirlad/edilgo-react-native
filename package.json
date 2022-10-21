@@ -53,7 +53,7 @@
     "react-native-loading-spinner-overlay": "^2.0.0",
     "react-native-maps": "0.29.4",
     "react-native-paper": "^4.10.0",
-    "react-native-reanimated": "^2.2.3",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.1.8",
     "react-native-screens": "3.4.0",
     "react-native-sensitive-info": "^5.5.8",
